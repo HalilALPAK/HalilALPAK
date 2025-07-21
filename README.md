@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halil Alpak</h1>
-<h3 align="center">a passionate AI and Flutter developer from TurkeyA passionate frontend developer from India</h3>
+<h3 align="center">a passionate AI and Flutter developer from Turkey</h3>
 
 - 📫 How to reach me **halilalpak511@gmail.com**
 
